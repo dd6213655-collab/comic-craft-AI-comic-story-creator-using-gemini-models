@@ -17,13 +17,10 @@
 
 ---
 
-## Step 5:  Project Development 
-
 | S.No | Team Member | Idea / Suggestion | Category | Group No. |
 |------|-------------|-------------------|----------|-----------|
-| 1 | Lokesh | Multimodal receipt image parsing using Google Gemini 1.5 Flash API | AI Architecture & Vision | Group 08 |
-| 2 | Dharan kumar| Automated line-item expense categorization and tax breakdown | Data Processing & Logic | Group 08 |
-| 3 | Muniyappan | Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 08 |
-| 4 | Muthukumar | Budget threshold alerting and smart savings recommendations engine | Business Logic & Rules | Group 08 |
-
+| 1 | divyadharshini b | Multimodal receipt image parsing using Google Gemini 1.5 Flash API | AI Architecture & Vision | Group 16 |
+| 2 | mogana priya s | Automated line-item expense categorization and tax breakdown | Data Processing & Logic | Group 16 |
+| 3 | depika s | Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 16 |
+| 4 | dharshini s | Interactive expense analytics dashboard with monthly spending insights and visual reports | Data Analytics & Visualization | Group 16 |
 
