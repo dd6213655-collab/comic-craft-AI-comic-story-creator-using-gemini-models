@@ -22,8 +22,10 @@ Students, homemakers, and small teams needing fast, frictionless expense breakdo
 
 ## Step 1: Brainstorm and Idea Listing
 
+
 | S.No | Team Member | Idea / Suggestion | Category | Group No. |
 |------|-------------|-------------------|----------|-----------|
-| 1 | monika v | Multimodal receipt image parsing using Google Gemini 1.5 Flash API | AI Architecture & Vision | Group 07 |
-| 2 | latchaya| Automated line-item expense categorization and tax breakdown | Data Processing & Logic | Group 07 |
-| 3 | pavithra u| Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 07 |
+| 1 | divyadharshini b | Multimodal receipt image parsing using Google Gemini 1.5 Flash API | AI Architecture & Vision | Group 16 |
+| 2 | mogana priya s | Automated line-item expense categorization and tax breakdown | Data Processing & Logic | Group 16 |
+| 3 | depika s | Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 16 |
+| 4 | dharshini s | Interactive expense analytics dashboard with monthly spending insights and visual reports | Data Analytics & Visualization | Group 16 |
